@@ -3,7 +3,7 @@ FilmHouse: Your Ultimate Movie Database Platform
 
 Project Overview:
 
-FilmHouse is a comprehensive and simple web application designed to provide users with an intuitive platform to browse, search, and manage their favorite movies. This application leverages a robust database to ensure a seamless user experience while offering full CRUD (Create, Read, Update, Delete) functionality.
+FilmHouse is a comprehensive and web application designed to provide users with an intuitive platform to browse, search, and manage their favorite movies. This application leverages a robust database to ensure a seamless user experience while offering full CRUD (Create, Read, Update, Delete) functionality.
 
 Key Features:
 
